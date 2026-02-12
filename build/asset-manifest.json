@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.447ffd95.css",
+    "main.js": "/static/js/main.73e00261.js",
+    "static/media/bubu-dudu-sseeyall.gif": "/static/media/bubu-dudu-sseeyall.f85add9aa753a4e43258.gif",
+    "static/media/bubu-dudu.gif": "/static/media/bubu-dudu.e39ae8a04e11cbc476f2.gif",
+    "index.html": "/index.html",
+    "main.447ffd95.css.map": "/static/css/main.447ffd95.css.map",
+    "main.73e00261.js.map": "/static/js/main.73e00261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447ffd95.css",
+    "static/js/main.73e00261.js"
+  ]
+}
